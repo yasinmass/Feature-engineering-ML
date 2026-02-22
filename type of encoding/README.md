@@ -89,7 +89,7 @@ Categorical Encoding
 │
 ├── Ordinal Data (Has Order)
 │   ├── Label Encoding
-│   └── Ordinal Encoding (Manual)
+│   └── Ordinal Encoding (Manual Mapping)
 │
 └── Supervised Encoding (Uses Target)
     ├── Target Encoding
